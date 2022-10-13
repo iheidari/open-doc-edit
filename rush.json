@@ -21,6 +21,10 @@
     {
       "packageName": "api",
       "projectFolder": "packages/api"
+    },
+    {
+      "packageName": "web",
+      "projectFolder": "packages/web"
     }
   ]
 }
