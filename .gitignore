@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Heft
+.heft
+
+# Common toolchain intermediate files
+lib
+temp
+
+# OS X temporary files
+.DS_Store
+
+# rush
+common/deploy/
+common/temp/
+common/autoinstallers/*/.npmrc
+**/.rush/temp/
